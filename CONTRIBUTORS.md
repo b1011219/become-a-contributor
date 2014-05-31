@@ -8,4 +8,4 @@ Contributors
 * ichiren1 \<ichiren1@gmail.com>
 * chocopun \<b1012181@gmail.com>
 * tos_kamiya \<kamiya@mbj.nifty.com>
-
+* Takuan \<b1011219@fun.ac.jp>
