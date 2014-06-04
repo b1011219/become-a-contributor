@@ -10,4 +10,4 @@ Contributors
 * tos_kamiya \<kamiya@mbj.nifty.com>
 * Takuan \<b1011219@fun.ac.jp>
 * uryu1994 \<b1012086@fun.ac.jp>
-
+* KG  \<b1012008@fun.ac.jp>
