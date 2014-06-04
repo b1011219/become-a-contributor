@@ -9,5 +9,7 @@ Contributors
 * chocopun \<b1012181@gmail.com>
 * tos_kamiya \<kamiya@mbj.nifty.com>
 * Takuan \<b1011219@fun.ac.jp>
+* conflict man \<conflict@example.com>
 * uryu1994 \<b1012086@fun.ac.jp>
 * KG  \<b1012008@fun.ac.jp>
+* kuromilk \<fuj.t601216@gmail.com>
