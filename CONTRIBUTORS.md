@@ -8,6 +8,7 @@ Contributors
 * ichiren1 \<ichiren1@gmail.com>
 * chocopun \<b1012181@gmail.com>
 * tos_kamiya \<kamiya@mbj.nifty.com>
+* ochinchin-man \<ochinchin@ochin.in>
 * conflict_man2 \<conflict2@example.com>
 * conflict man \<conflict@example.com>
 * conflict man \<conflict2@example.com>
